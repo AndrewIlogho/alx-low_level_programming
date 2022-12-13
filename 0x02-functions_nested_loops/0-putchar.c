@@ -6,6 +6,7 @@
  */
 int main(void)
 
+{
 	_putchar('_');
 	_putchar('p');
 	_putcher('u');
@@ -17,4 +18,6 @@ int main(void)
 	_putcher('\n');
 
 	return (0);
+
+}
 
